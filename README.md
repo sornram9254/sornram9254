@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: Information Security Engineer / Consultant / Penetration Tester
 - 🌱 I’m currently learning: Cyber Security
 - 🎓 Education:
