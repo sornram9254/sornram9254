@@ -10,7 +10,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: ...
 - 💬 Ask me about: ...
 - 📫 How to reach me:
-    - test
+    - Email
+        - test 
+    - SNS
+        - LINE: sornram9254
+        - Twitter: @sornram9254
+        - Facebook: INSTALL.md
+        - Instagram: sornram9254
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
