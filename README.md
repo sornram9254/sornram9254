@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - Root-me		: root-me.org/sornram9254
     - Try Hack Me	: tryhackme.com/p/sornram9254
     - PentesterLab	: pentesterlab.com/profile/sornram9254
-    - Hack The Box	: https://app.hackthebox.com/profile/63873
+    - Hack The Box	: app.hackthebox.com/profile/63873
     - CTF-Time		: ctftime.org/user/6117
     - HackerOne	: hackerone.com/sornram9254
     - Open Bug Bounty	: openbugbounty.org/researchers/sornram9254/
