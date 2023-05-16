@@ -32,6 +32,6 @@
     - CTF-Time		: ctftime.org/user/6117
     - HackerOne	: hackerone.com/sornram9254
     - Open Bug Bounty	: openbugbounty.org/researchers/sornram9254/
-- 🪲 CVE:
+- 🪲 CVEs:
     - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
 
