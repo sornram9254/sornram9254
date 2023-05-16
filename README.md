@@ -18,6 +18,7 @@
         - Facebook: INSTALL.md
         - Instagram: sornram9254
         - Tiktok: @sornram9254
+        - Linkedin: [linkedin.com/in/sornram9254](https://linkedin.com/in/sornram9254)
 - 🥇 Honors & Awards:
     - Mobile Penetration Testing CTF Workshop Competition by Secure-D, 2nd Runner-Ups.
     - Thailand CTF Competition 2018 by ETDA, Top 10 Runner-Ups.
