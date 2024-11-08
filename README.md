@@ -35,5 +35,19 @@
     - Open Bug Bounty	: openbugbounty.org/researchers/sornram9254/
 - 🪲 CVEs:
     - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
-
-TODO:...
+- ⚔️ Certificatons & Badges:
+    - Certified AppSec Practitioner (CAP) - The SecOps Group
+    - Certified Cloud Security Practitioner : AWS (CCSP-AWS) - The SecOps Group
+    - Certified Network Pentester (CNPen) - The SecOps Group
+    - Multi-Cloud Red Team Analyst (MCRTA) - CyberWarFare Labs
+    - OffSec Certified Professional (OSCP) - OffSec
+    - Junior Penetration Tester v1 (eJPT) - INE Security (FKA eLearnSecurity)
+    - Junior Penetration Tester v2 (eJPT) - INE Security (FKA eLearnSecurity)
+    - Web Application Penetration Tester (eWPT) - INE Security (FKA eLearnSecurity)
+    - Web application Penetration Tester eXtreme (eWPTX) - INE Security (FKA eLearnSecurity)
+    - Mobile Application Penetration Tester (eMAPT) - INE Security (FKA eLearnSecurity)
+    - Cyber Security Foundation (CSFPC) - CertiProf
+    - Technical Specialist Exam : Symantec™ Endpoint Protection 14 (BTSE) - Broadcom (FKA Symantec)
+    - Check Point SandBlast Sales Certification - Check Point Software Technologies
+    - Professional Qualifications (System Analysis and Design) - TPQI
+    - Information Technology Professional Examination Certificate (ITPE) - ITPEC
