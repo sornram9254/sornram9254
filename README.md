@@ -46,8 +46,8 @@
     - Web Application Penetration Tester (eWPT) - INE Security (FKA eLearnSecurity)
     - Web application Penetration Tester eXtreme (eWPTX) - INE Security (FKA eLearnSecurity)
     - Mobile Application Penetration Tester (eMAPT) - INE Security (FKA eLearnSecurity)
-    - Cyber Security Foundation (CSFPC) - CertiProf
+    - Cyber Security Foundation (CSFPC) - CertiProf _[Expired]_
     - Technical Specialist Exam : Symantec™ Endpoint Protection 14 (BTSE) - Broadcom (FKA Symantec)
-    - Check Point SandBlast Sales Certification - Check Point Software Technologies
+    - Check Point SandBlast Sales Certification - Check Point Software Technologies _[Expired]_
     - Professional Qualifications (System Analysis and Design) - TPQI
     - Information Technology Professional Examination Certificate (ITPE) - ITPEC
