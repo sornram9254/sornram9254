@@ -51,3 +51,18 @@
     - Check Point SandBlast Sales Certification - Check Point Software Technologies _[Expired]_
     - Professional Qualifications (System Analysis and Design) - TPQI
     - Information Technology Professional Examination Certificate (ITPE) - ITPEC
+ <hr/>
+<div>
+  <img src="certs/CAP.png" width="150" height="150">
+  <img src="certs/CNPen.png" width="150" height="150">
+  <img src="certs/CCSP-AWS.png" width="150" height="150">
+  <img src="certs/MCRTA.png" width="150" height="150">
+  <img src="certs/BTSE.png" width="150" height="150">
+</div>
+<div>
+  <img src="certs/eJPT.png" width="150" height="150">
+  <img src="certs/eWPT.png" width="150" height="150">
+  <img src="certs/eWPTX.png" width="150" height="150">
+  <img src="certs/eMAPT.png" width="150" height="150">
+  <img src="certs/OSCP.png" width="150" height="150">
+</div>
