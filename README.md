@@ -37,6 +37,17 @@
     - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
     - CVE-2023-XXXXX (RESERVED)
     - CVE-2025-XXXXX (RESERVED)
+- Reported vulnerability, xxxxxxxx TODO xxxxxxxx
+    - Global Association for Quality Management (GAQM)
+    - Chulalongkorn University, Thailand
+    - Thailand Professional Qualification Institute (TPQI)
+    - Ministry Of Energy, Thailand
+    - Major Cineplex, Thailand
+    - JBL by HARMAN
+    - Social Security Office, Thailand
+    - playeternalreturn.com
+    - usersearch.org
+    - etc...
 - ⚔️ Certificatons & Badges:
     - Certified AppSec Practitioner (CAP) - The SecOps Group
     - Certified Cloud Security Practitioner : AWS (CCSP-AWS) - The SecOps Group
