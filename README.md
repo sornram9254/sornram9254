@@ -35,6 +35,8 @@
     - Open Bug Bounty	: openbugbounty.org/researchers/sornram9254/
 - 🪲 CVEs:
     - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
+    - CVE-2023-XXXXX (RESERVED)
+    - CVE-2025-XXXXX (RESERVED)
 - ⚔️ Certificatons & Badges:
     - Certified AppSec Practitioner (CAP) - The SecOps Group
     - Certified Cloud Security Practitioner : AWS (CCSP-AWS) - The SecOps Group
