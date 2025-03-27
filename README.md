@@ -66,18 +66,18 @@
     - Information Technology Professional Examination Certificate (ITPE) - ITPEC
  <hr/>
 <div>
-  <img src="certs/CAP.png" width="120" height="120">
-  <img src="certs/CNPen.png" width="120" height="120">
-  <img src="certs/CCSP-AWS.png" width="120" height="120">
-  <img src="certs/C-ADPenX.png" width="120" height="120">
-  <img src="certs/MCRTA.png" width="120" height="120">
-  <img src="certs/BTSE.png" width="120" height="120">
+  <img src="certs/CAP.png" width="125" height="125">
+  <img src="certs/CNPen.png" width="125" height="125">
+  <img src="certs/CCSP-AWS.png" width="125" height="125">
+  <img src="certs/C-ADPenX.png" width="125" height="125">
+  <img src="certs/MCRTA.png" width="125" height="125">
+  <img src="certs/BTSE.png" width="125" height="125">
 </div>
 <div>
-  <img src="certs/eJPT.png" width="120" height="120">
-  <img src="certs/eWPT.png" width="120" height="120">
-  <img src="certs/eWPTX.png" width="120" height="120">
-  <img src="certs/eMAPT.png" width="120" height="120">
-  <img src="certs/CRTA.png" width="120" height="120">
-  <img src="certs/OSCP.png" width="120" height="120">
+  <img src="certs/eJPT.png" width="125" height="125">
+  <img src="certs/eWPT.png" width="125" height="125">
+  <img src="certs/eWPTX.png" width="125" height="125">
+  <img src="certs/eMAPT.png" width="125" height="125">
+  <img src="certs/CRTA.png" width="125" height="125">
+  <img src="certs/OSCP.png" width="125" height="125">
 </div>
