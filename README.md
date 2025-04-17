@@ -37,6 +37,8 @@
     - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
     - CVE-2023-XXXXX (RESERVED)
     - CVE-2025-XXXXX (RESERVED)
+    - CVE-2025-XXXXX (RESERVED)
+    - CVE-2025-XXXXX (RESERVED)
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
     - Global Association for Quality Management (GAQM)
     - Chulalongkorn University, Thailand
