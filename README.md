@@ -34,11 +34,11 @@
     - HackerOne	: hackerone.com/sornram9254
     - Open Bug Bounty	: openbugbounty.org/researchers/sornram9254/
 - 🪲 CVEs:
-    - CVE-2022-38577 (ProcessMaker - User Profile Privilege Escalation)
-    - CVE-2023-XXXXX (RESERVED) ___
-    - CVE-2025-25539 (RESERVED) Local File Inclusion in Vasco Self-Service Portal
-    - CVE-2025-27997 (RESERVED) Privilege Escalation via Insecure File Permissions in Blizzard Battle.net
-    - CVE-2025-27998 (RESERVED) Privilege Escalation via Insecure File Permissions in Steam Client
+    - CVE-2022-38577 : ProcessMaker - User Profile Privilege Escalation)
+    - CVE-2023-XXXXX : (RESERVED) _____________________________________
+    - CVE-2025-25539 : Local File Inclusion in Vasco Self-Service Portal
+    - CVE-2025-27997 : Privilege Escalation via Insecure File Permissions in Blizzard Battle.net
+    - CVE-2025-27998 : Privilege Escalation via Insecure File Permissions in Steam Client
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
     - Global Association for Quality Management (GAQM)
     - Chulalongkorn University, Thailand
