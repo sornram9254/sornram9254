@@ -42,6 +42,7 @@
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
     - Global Association for Quality Management (GAQM)
     - Chulalongkorn University, Thailand
+    - Kasetsart University, Thailand
     - Thailand Professional Qualification Institute (TPQI)
     - Ministry Of Energy, Thailand
     - Major Cineplex, Thailand
