@@ -69,18 +69,18 @@
     - Information Technology Professional Examination Certificate (ITPE) - ITPEC
  <hr/>
 <div>
-  <img src="certs/CAP.png" width="130" height="130">
-  <img src="certs/CNPen.png" width="130" height="130">
-  <img src="certs/CCSP-AWS.png" width="130" height="130">
-  <img src="certs/C-ADPenX.png" width="130" height="130">
-  <img src="certs/MCRTA.png" width="130" height="130">
-  <img src="certs/BTSE.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CAP.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CNPen.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CCSP-AWS.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/C-ADPenX.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/MCRTA.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/BTSE.png" width="130" height="130">
 </div>
 <div>
-  <img src="certs/eJPT.png" width="130" height="130">
-  <img src="certs/eWPT.png" width="130" height="130">
-  <img src="certs/eWPTX.png" width="130" height="130">
-  <img src="certs/eMAPT.png" width="130" height="130">
-  <img src="certs/CRTA.png" width="130" height="130">
-  <img src="certs/OSCP.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/eJPT.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/eWPT.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/eWPTX.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/eMAPT.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CRTA.png" width="130" height="130">
+  <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/OSCP.png" width="130" height="130">
 </div>
