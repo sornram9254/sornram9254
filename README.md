@@ -56,6 +56,7 @@
     - Certified AppSec Practitioner (CAP) - The SecOps Group
     - Certified Cloud Security Practitioner : AWS (CCSP-AWS) - The SecOps Group
     - Certified Network Pentester (CNPen) - The SecOps Group
+    - Certified Active Directory Pentesting eXpert (C-ADPenX) - The SecOps Group
     - Multi-Cloud Red Team Analyst (MCRTA) - CyberWarFare Labs
     - OffSec Certified Professional (OSCP) - OffSec
     - Junior Penetration Tester v1 (eJPT) - INE Security (FKA eLearnSecurity)
