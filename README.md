@@ -40,6 +40,7 @@
     - CVE-2025-27997 : Privilege Escalation via Insecure File Permissions in Blizzard Battle.net
     - CVE-2025-27998 : Privilege Escalation via Insecure File Permissions in Steam Client
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
+    - Collaborative Research in Computational Neuroscience (CRCNS) [kudos](https://commons.lbl.gov/spaces/cpp/pages/197691423/White+Hats+for+Science#WhiteHatsforScience-Kudos)
     - Global Association for Quality Management (GAQM)
     - Chulalongkorn University, Thailand
     - Kasetsart University, Thailand
