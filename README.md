@@ -53,22 +53,33 @@
     - usersearch.org
     - etc...
 - ⚔️ Certificatons & Badges:
-    - Certified AppSec Practitioner (CAP) - The SecOps Group
-    - Certified Cloud Security Practitioner : AWS (CCSP-AWS) - The SecOps Group
-    - Certified Network Pentester (CNPen) - The SecOps Group
-    - Certified Active Directory Pentesting eXpert (C-ADPenX) - The SecOps Group
-    - Multi-Cloud Red Team Analyst (MCRTA) - CyberWarFare Labs
-    - OffSec Certified Professional (OSCP) - OffSec
-    - Junior Penetration Tester v1 (eJPT) - INE Security (FKA eLearnSecurity)
-    - Junior Penetration Tester v2 (eJPT) - INE Security (FKA eLearnSecurity)
-    - Web Application Penetration Tester (eWPT) - INE Security (FKA eLearnSecurity)
-    - Web application Penetration Tester eXtreme (eWPTX) - INE Security (FKA eLearnSecurity)
-    - Mobile Application Penetration Tester (eMAPT) - INE Security (FKA eLearnSecurity)
-    - Cyber Security Foundation (CSFPC) - CertiProf _[Expired]_
-    - Technical Specialist Exam : Symantec™ Endpoint Protection 14 (BTSE) - Broadcom (FKA Symantec)
-    - Check Point SandBlast Sales Certification - Check Point Software Technologies _[Expired]_
-    - Professional Qualifications (System Analysis and Design) - TPQI
-    - Information Technology Professional Examination Certificate (ITPE) - ITPEC
+    - The SecOps Group
+        - Certified AppSec Practitioner (CAP)
+        - Certified Cloud Security Practitioner : AWS (CCSP-AWS)
+        - Certified Network Pentester (CNPen)
+        - Certified Active Directory Pentesting eXpert (C-ADPenX)
+    - CyberWarFare Labs
+        - Multi-Cloud Red Team Analyst (MCRTA)
+        - Certified Red Team Analyst (CRTA)
+        - Certified Cyber Security Analyst (C3SA)
+    - OffSec
+        - OffSec Certified Professional (OSCP) 
+    - INE Security (FKA eLearnSecurity)
+        - Junior Penetration Tester v1 (eJPT)
+        - Junior Penetration Tester v2 (eJPT)
+        - Web Application Penetration Tester (eWPT)
+        - Web application Penetration Tester eXtreme (eWPTX)
+        - Mobile Application Penetration Tester (eMAPT)
+    - CertiProf
+        - Cyber Security Foundation (CSFPC) _[Expired]_
+    - Broadcom (FKA Symantec)
+        - Technical Specialist Exam : Symantec™ Endpoint Protection 14 (BTSE) 
+    - Check Point Software Technologies
+        - Check Point SandBlast Sales Certification _[Expired]_
+    - Thailand Professional Qualification Institute (TPQI)
+        - Professional Qualifications (System Analysis and Design)
+    - IT Professionals Examination Council (ITPEC)
+        - Information Technology Professional Examination Certificate (ITPE)
  <hr/>
 <div>
   <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CAP.png" width="130" height="130">
