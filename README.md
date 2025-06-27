@@ -65,7 +65,7 @@
     - OffSec (FKA Offensive Security)
         - Offensive Security Certified Professional (OSCP) 
     - INE Security (FKA eLearnSecurity)
-        - Junior Penetration Tester v1 (eJPT) | Junior Penetration Tester v2 (eJPT)
+        - Junior Penetration Tester v1 (eJPT) / Junior Penetration Tester v2 (eJPT)
         - Web Application Penetration Tester (eWPT)
         - Web application Penetration Tester eXtreme (eWPTX)
         - Mobile Application Penetration Tester (eMAPT)
