@@ -79,6 +79,8 @@
         - Professional Qualifications (System Analysis and Design)
     - IT Professionals Examination Council (ITPEC)
         - Information Technology Professional Examination Certificate (ITPE)
+    - TryHackMe
+        - Junior Penetration Tester (PT1)
  <hr/>
 <div>
   <img src="https://raw.githubusercontent.com/sornram9254/sornram9254/main/certs/CAP.png" width="130" height="130">
