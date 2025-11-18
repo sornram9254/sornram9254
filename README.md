@@ -39,6 +39,7 @@
     - CVE-2025-25539 : Local File Inclusion in Vasco Self-Service Portal
     - CVE-2025-27997 : Privilege Escalation via Insecure File Permissions in Blizzard Battle.net
     - CVE-2025-27998 : Privilege Escalation via Insecure File Permissions in Steam Client
+    - CVE-2025-12457 : Wordpress Plugins, Enable SVG, WebP, and ICO Upload <= 1.1.2 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Uploads
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
     - Collaborative Research in Computational Neuroscience (CRCNS) [kudos](https://commons.lbl.gov/spaces/cpp/pages/197691423/White+Hats+for+Science#WhiteHatsforScience-Kudos)
     - Global Association for Quality Management (GAQM)
