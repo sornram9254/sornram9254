@@ -39,7 +39,7 @@
     - [CVE-2025-25539](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-25539) : Local File Inclusion in Vasco Self-Service Portal
     - [CVE-2025-27997](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-27997) : Privilege Escalation via Insecure File Permissions in Blizzard Battle.net
     - [CVE-2025-27998](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-27998) : Privilege Escalation via Insecure File Permissions in Steam Client
-    - [CVE-2025-12451](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-12451) : (RESERVED) _____________________________________
+    - [CVE-2025-12451](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-12451) : Wordpress Plugins, Easy SVG Support <= 4.0 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Upload
     - [CVE-2025-12457](https://github.com/sornram9254/CVE-BBP-VDP/tree/main/CVE-2025-12457) : Wordpress Plugins, Enable SVG, WebP, and ICO Upload <= 1.1.2 - Authenticated (Author+) Stored Cross-Site Scripting via SVG File Uploads
 - Reported vulnerability, xxxxxxxx TODO xxxxxxxx
     - Collaborative Research in Computational Neuroscience (CRCNS) <sup>[kudos](https://commons.lbl.gov/spaces/cpp/pages/197691423/White+Hats+for+Science#WhiteHatsforScience-Kudos)</sup>
